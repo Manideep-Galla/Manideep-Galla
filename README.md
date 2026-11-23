@@ -23,16 +23,13 @@ I am a self-motivated learner with a growth mindset, strong enthusiasm for techn
 ## 🌐 Socials
 
 <p>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Manideep-Galla/Manideep-Galla">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/manideep-kumar-galla-b48614402?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:gmanideepkumar@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
