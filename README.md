@@ -97,19 +97,3 @@ I am a self-motivated learner with a growth mindset, strong enthusiasm for techn
 </p>
 
 ---
-
-# 🐍 Contribution Activity
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-<p align="center">
-### 💡 "Code with Purpose. Build with Passion. Secure the Future."
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
-</p>
